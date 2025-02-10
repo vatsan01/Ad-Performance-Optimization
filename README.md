@@ -21,7 +21,7 @@ Clone the repository and install dependencies:
 git clone git clone https://github.com/vatsan01/Ad-Performance-Optimization.git
 cd Ad-Performance-Optimization
 pip install -r requirements.txt
-
+```
 ## Usage
 - Place the ad performance dataset (ad_performance_data.csv) in the project folder.
 - Run the script to train the model:
