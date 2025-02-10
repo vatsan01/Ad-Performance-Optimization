@@ -18,7 +18,7 @@ This project builds a **Machine Learning Model** to analyze **advertising engage
 ## Installation
 Clone the repository and install dependencies:
  ```bash
-git clone https://github.com/yourgithub/Ad-Performance-Optimization.git
+git clone git clone https://github.com/vatsan01/Ad-Performance-Optimization.git
 cd Ad-Performance-Optimization
 pip install -r requirements.txt
 
@@ -32,8 +32,9 @@ pip install -r requirements.txt
 Ensure your dataset (`ad_performance_data.csv`) has the following columns:
 
 | Date       | Ad Spend | Impressions | Clicks | Conversions | Engagement Rate |
-|------------|---------|------------|--------|------------|----------------|
-| 2024-01-01 | 500     | 10000      | 200    | 50         | 5.0            |
+|------------|----------|-------------|--------|-------------|-----------------|
+| 2024-01-01 | 500      | 10000       | 200    | 50          | 5.0             |
+
 
 ## Future Enhancements
 Implement Hyperparameter Tuning to improve model performance.
